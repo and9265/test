@@ -7,6 +7,7 @@ namespace test_rep
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("World Hello!");
         }
     }
 }
